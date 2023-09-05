@@ -1,5 +1,5 @@
 # Projeto ReactJs Com Firebase, Vite e TypeScrit
-## Projeto em reactJs utilizando farebase com base de dados
+## Projeto em reactJs utilizando farebase como base de dados
 ### O Projeto simula um site de anuncio de carros
 
 ## Tecnologias usadas
